@@ -59,7 +59,7 @@ The goal of this tutorial is to get you comfortable with locating gene sequences
 ![Exon length Picture](/assets/img/exon_length2.jpg)
 
 13.	 Is there a 5’ UTR and 3’ UTR?  
-    - This can be assessed by looking at the difference between the exon & coding base pair lengths.  The 5’ and 3’ UTR would be included in the exon length but not in the coding length which helps determine if they are present at the start and end of the transcription.  If the exon length and coding length are the same for the first exon that would indicate there is no 5’ UTR.  The 5’ UTR is more commonly missing than the 3’ and that is due to it being a very GC rich region and harder to translate.  
+     - This can be assessed by looking at the difference between the exon & coding base pair lengths.  The 5’ and 3’ UTR would be included in the exon length but not in the coding length which helps determine if they are present at the start and end of the transcription.  If the exon length and coding length are the same for the first exon that would indicate there is no 5’ UTR.  The 5’ UTR is more commonly missing than the 3’ and that is due to it being a very GC rich region and harder to translate.  
 
 14.	Is there a start codon (ATG)? 
     - The start codon should be the first three base pairs (ATG) of the first coding exon.  Select the first coding exon sequence from the second column to check for the start codon.  There may be times where the start codon is not located on exon 1 and might be located on exon 2 or 3 and this is because the 5’ UTR has spanned more than one exon.  
