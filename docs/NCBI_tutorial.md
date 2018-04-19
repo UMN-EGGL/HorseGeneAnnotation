@@ -6,16 +6,16 @@ The goal of this tutorial is to get you comfortable with locating gene sequences
     - Enter the gene name & the species (equus caballus or horse) and hit Search 
     - This pulls up the reference genome (EquCab 3.0) which is a whole genome sequence for one individual horse that we can use for comparison.  Because this genome is from one individual there are potential broken genes.  Part of the process with manual annotation is determining if the differences between the horse & human genome are normal species variation or if the changes could indicate a potential mutation in a region.  The average person also has a bunch of potentially deleterious mutations, such as premature stop codons, frameshifts, missense mutations in highly conserved places that don’t end up leading to clinical disease. 
     
-[NCBI Website Picture](assets/img/NCBI_website.jpg)
+![NCBI Website Picture](/assets/img/NCBI_website.jpg)
 
 2.	Select the equine Gene from the search result list: 
     - Information is available on this screen  including the gene ID, description, location and position (Chr 26: 24,239,771-24,494,243). 
 
-![Search Results Picture]()
+![Search Results Picture](/assets/img/search_results.jpg)
 
 3.	Once the gene is selected a lot more information can be obtained including the description of the gene, gene type, location and exon count.  Continuing further down on on this page will show diagrams of the gene, exons etc. 
 
-![APP Gene Picture]()
+![APP Gene Picture](/assets/img/APP_gene.jpg)
 
 4.	Begin by selecting the “Full Report” drop down in the upper left corner and change the format to “Gene Table”.  This will bring up a screen with the available transcripts and exons/coding sequence for review.  
 
