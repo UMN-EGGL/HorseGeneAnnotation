@@ -16,15 +16,15 @@ experiments.
 
 Generating a reference genome costs a lot of money -- but it is getting better.
 The cost to sequence the first human genome was nearly 3
-billion<sup id='#f1'>[1](#footnote1)</sup> dollars! Due to rapid advances in technology and
+billion<sup id='t1'>[1](#f1)</sup> dollars! Due to rapid advances in technology and
 an emerging biomedical market, a genome today only takes ~$1000 dollars to
-sequence<sup>[2](#f2)</sup>. This is a pretty good deal considering that the
+sequence<sup id='t2'>[2](#f2)</sup>. This is a pretty good deal considering that the
 human genome is composed of nearly 3.2 billion base pairs, the unit of
-information in DNA<sup>[3](#f3)</sup>. This advance in technology has also
+information in DNA<sup id='t3'>[3](#f3)</sup>. This advance in technology has also
 enabled reasearchers and scientists who study other genetics in other organisms
 to draft and assemble their own genome. In 2009, less than a decade after the
 human genome was completed, the nearly 2.7 billion base pairs of the equine
-genome were sequenced and made available to the public<sup>[4](#f4)</sup>.
+genome were sequenced and made available to the public<sup id='t4'>[4](#f4)</sup>.
 
 ## A finished reference genome isn't done
 A genome is **massive**. If you printed yours out on paper, it would fill a
@@ -35,11 +35,11 @@ scientists were 99.999% accurate while assembling a genome, and the genome you
 were assembling was 3 billion base pairs, you'd still end up with approximately
 3 million errors introduced in your reference!
 
-There were thousands of people<sup>[5](#f5)</sup> working in the human genome
+There were thousands of people<sup id='t5'>[5](#f5)</sup> working in the human genome
 project. Today, we have genome projects for hundreds of different non-model and
 agricultural species. Most of these teams consist of a handful of researchers
 who are dedicated to knowing more about frogs, alligators, falcons, hedgehogs,
-gorillas, bats, walrus's, beetles, and yes, horses<sup>[6](#f6)</sup>.  
+gorillas, bats, walrus's, beetles, and yes, horses<sup id='t6'>[6](#f6)</sup>.  
 
 🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦 🐤 🦆 🦅 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐚 🐞 🐜 🦗 🕷 🦂 🐢 🐍 🦎 🐙 🦑 🦐 🦀 🐡 🐠 🐟 🐳 🦈 🐊 🐅 🐆 🦓 🦍 🐘 🦏 🐪 🐫 🦒 🐃 🐂 🐄 🐎 🐖 🐏 🐑 🐐 🦌 🐕 🐩 🐈 🐓 🦃 🐇 🐁 🐀  
 
@@ -70,9 +70,9 @@ will use in their science!
 To get started, check out our [Contributing Guide](CONTRIBUTING.md) and Tutorial!
 
 # References
-- <a name='f1'>1</a>: https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/
-- <a name='f2'>2</a>: https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/
-- <a name='f3'>3</a>: https://en.wikipedia.org/wiki/Human_genome
-- <a name='f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm
-- <a name='f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007
-- <a name='f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes
+- <a name='f1'>1</a>: https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/ [↩](#t1)
+- <a name='f2'>2</a>: https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/ [↩](#t2)
+- <a name='f3'>3</a>: https://en.wikipedia.org/wiki/Human_genome [↩](#t3)
+- <a name='f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm [↩](#f4)
+- <a name='f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007 [↩](#f5)
+- <a name='f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes [↩](#f6)
