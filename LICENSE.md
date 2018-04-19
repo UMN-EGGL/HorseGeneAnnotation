@@ -1,6 +1,8 @@
-MIT License
+Copyright (c) 2018 Regents of the University of Minnesota
 
-Copyright (c) 2018 University of Minnesota Equine Genetics and Genomics Lab
+### Software
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+### Content and assets
+Available under the terms of the [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.ast)
