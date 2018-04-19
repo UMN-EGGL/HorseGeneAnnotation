@@ -21,7 +21,7 @@ The goal of this tutorial is to get you comfortable with locating gene sequences
 
 ![Gene Table Picture](/assets/img/Gene_table.jpg)
 
-5.	The “Gene Table” screen looks like the following with the diagram showing the entire gene above the available transcripts (in bold black ink).  Selection of the plus sign to the left of the Exon table lines will pull up available transcripts.   
+5.	The “Gene Table” screen looks like the following with the diagram above the available transcripts (highlighted in red box.  Selection of the plus sign to the left of the transcripts will open up more information about the available transcripts including exon length, coding sequence, introns and number of amino acids.   
 
 ![Gene Table Screen Picture](/assets/img/Gene_table_screen.jpg)
 
@@ -88,8 +88,7 @@ Once you have answered the above questions it is time to closer assess exons via
 
 # USING BLAST
 
-1.	Start by opening the [BLAST browser at NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi) 
-        - Select nucleotide BLAST 
+1.	Start by opening the [BLAST browser at NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi) and selecting nucleotide BLAST
 
 ![BLAST website picture](/assets/img/BLAST_website.jpg)
         
@@ -108,9 +107,9 @@ transcript alignments and the identity match % (96%).
 
 4. Below the descriptions section is the “Alignments” section which provides the individual transcript matches.   The identities column shows how many of the nucleotides matchup between the horse & human (in this example: 55/57 or 96%, shown in red box).  The “query” sequence is the human sequence that was entered into BLAST and the “subject” is the equine reference sequence. 
 
-On the left and right side of the subject sequence is the base pair position of this sequence.  (For example this sequence spans between the base pair positions of 24,494,040 and 24,493,984- shown in the blue boxes).  
+      - On the left and right side of the subject sequence is the base pair position of this sequence.  (For example this sequence spans between the base pair positions of 24,494,040 and 24,493,984- shown in the blue boxes).  
 
-Any difference in nucleotides is visualized at the individual level shown with the absence of a vertical line joining the two differing base pairs shown within the green box below. 
+      - Any difference in nucleotides is visualized at the individual level shown with the absence of a vertical line joining the two differing base pairs shown within the green box below. 
 
 ![BLAST transcript picture](/assets/img/BLAST_transcript.jpg)
 
