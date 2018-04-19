@@ -16,7 +16,7 @@ experiments.
 
 Generating a reference genome costs a lot of money -- but it is getting better.
 The cost to sequence the first human genome was nearly 3
-billion<sup id='t1'>[1](#f1)</sup> dollars! Due to rapid advances in technology and
+billion<sup id='#f1'>[1](#footnote1)</sup> dollars! Due to rapid advances in technology and
 an emerging biomedical market, a genome today only takes ~$1000 dollars to
 sequence<sup>[2](#f2)</sup>. This is a pretty good deal considering that the
 human genome is composed of nearly 3.2 billion base pairs, the unit of
@@ -70,9 +70,9 @@ will use in their science!
 To get started, check out our [Contributing Guide](CONTRIBUTING.md) and Tutorial!
 
 # References
-- <a name='#f1'>1</a>: https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/
-- <a name='#f2'>2</a>: https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/
-- <a name='#f3'>3</a>: https://en.wikipedia.org/wiki/Human_genome
-- <a name='#f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm
-- <a name='#f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007
-- <a name='#f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes
+- <a name='f1'>1</a>: https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/
+- <a name='f2'>2</a>: https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/
+- <a name='f3'>3</a>: https://en.wikipedia.org/wiki/Human_genome
+- <a name='f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm
+- <a name='f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007
+- <a name='f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes
