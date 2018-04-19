@@ -56,7 +56,7 @@ The goal of this tutorial is to get you comfortable with locating gene sequences
 12.	Are the exons the same length?  Compare the base pair length of the human and horse genomes by looking at the coding length column.  The total exon length (column 3) includes the untranslated regions which can make it longer than the coding length (especially the first few and last few exons as this is where the 5’ and 3’ UTR would be located). 
     - For example in the picture below the first exon has an exon length of 260 base pairs and a coding length of 57 indicating that the first 203 base pairs of that exon is the 5’ UTR and the last 57 of the exon are the coding sequence.  The last exon has an exon length of 956 and coding length of 102 indicating the first 102 base pairs of that exon are the coding sequence which terminates in a stop codon and then 854 base pairs of the 3’ UTR are also included. 
 
-![Exon length Picture](/assets/img/exon_length.jpg)
+![Exon length Picture](/assets/img/exon_length2.jpg)
 
 13.	 Is there a 5’ UTR and 3’ UTR?  
     - This can be assessed by looking at the difference between the exon & coding base pair lengths.  The 5’ and 3’ UTR would be included in the exon length but not in the coding length which helps determine if they are present at the start and end of the transcription.  If the exon length and coding length are the same for the first exon that would indicate there is no 5’ UTR.  The 5’ UTR is more commonly missing than the 3’ and that is due to it being a very GC rich region and harder to translate.  
