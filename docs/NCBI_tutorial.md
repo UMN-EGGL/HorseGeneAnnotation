@@ -120,7 +120,7 @@ transcript alignments and the identity match % (96%).
 
 Another component of comparing genomes is to do a multiple species alignment that looks at a gene sequence (either as nucleotides or as amino acids) across many species.  This allows us to compare the species of interest to others and look at whether or not variants that are occurring are present in conserved or non-conserved regions of the gene.  A conserved region is one in which the sequence is very similar to identical in multiple species which could indicate that this region is important for function.  Non-conserved regions can vary greatly between species which often indicates that they are not as important for general functions, and variants identified in non-conserved regions are often not as significant.   
 
-There are a variety of programs available online that can perform multiple species alignment.  For this example we will use the [MultAlin Website](http://multalin.toulouse.inra.fr/multalin/)  
+There are a variety of programs available online that can perform multiple species alignment.  For this example we will use the [MultAlin Website](http://multalin.toulouse.inra.fr/multalin/) (Multiple sequence alignment by Florence Corpet)
 
 In order to perform multiple alignment you need to pull the FASTA sequence from the desired species you want to compare as described below and insert it into the MultAlin website. 
 
