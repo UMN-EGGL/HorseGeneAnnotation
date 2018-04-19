@@ -99,12 +99,12 @@ Once you have answered the above questions it is time to closer assess exons via
 
 _The screen will update multiple times as the BLAST is being performed and then results will be shown on screen. The processing screen highlights the number of base pairs included in the BLAST._
 
-![BLAST processing screen picture](/assets/BLAST_processing_screen.jpg)
+![BLAST processing screen picture](/assets/img/BLAST_processing_screen.jpg)
 
 3.	Results will include the “Descriptions” (shown below) that show all of the separate 
 transcript alignments and the identity match % (96%).    
 
-![BLAST results picture](/assets/img/BLAST)results_screen.jpg)
+![BLAST results picture](/assets/img/BLAST_results_screen.jpg)
 
 4. Below the descriptions section is the “Alignments” section which provides the individual transcript matches.   The identities column shows how many of the nucleotides matchup between the horse & human (in this example: 55/57 or 96%, shown in red box).  The “query” sequence is the human sequence that was entered into BLAST and the “subject” is the equine reference sequence. 
 
