@@ -1,4 +1,4 @@
-# HorseGeneAnnotation 
+# HorseGeneAnnotation  🐴
 Welcome! This is the README file for HorseGeneAnnotation: a manually curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
 the source code, documentations, tutorials and project tracking for
@@ -39,12 +39,19 @@ There were thousands of people<sup>[5](#5)</sup> working in the human genome
 project. Today, we have genome projects for hundreds of different non-model and
 agricultural species. Most of these teams consist of a handful of researchers
 who are dedicated to knowing more about frogs, alligators, falcons, hedgehogs,
-gorillas, bats, walrus's, beetles, and yes, horses<sup>[6](#6)</sup>.  Luckily,
-computers have made most the the process in drafting a reference genome a
+gorillas, bats, walrus's, beetles, and yes, horses<sup>[6](#6)</sup>.  
+
+🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦 🐤 🦆 🦅 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐚 🐞 🐜 🦗 🕷 🦂 🐢 🐍 🦎 🐙 🦑 🦐 🦀 🐡 🐠 🐟 🐳 🦈 🐊 🐅 🐆 🦓 🦍 🐘 🦏 🐪 🐫 🦒 🐃 🐂 🐄 🐎 🐖 🐏 🐑 🐐 🦌 🐕 🐩 🐈 🐓 🦃 🐇 🐁 🐀  
+
+Luckily, computers have made most the the process in drafting a reference genome a
 streamlined process. However, there are still some things computers are just
 not good at recognizing or resolving.
 
 ## We need your help!
+Our [lab](https://www.equine.umn.edu/research/equine-genetics-and-genomics-laboratory) 
+studies equine genetics and genomics. We are very proud to be included in the list
+of animals with a high quality sequenced reference genome. But the hard work is not over.
+
 We are building a website that will turn anyone into a gene curator! Our goal
 is to design a web-based interface that will teach people the basics anatomy of
 what scientists look for in the genome. From there you'll be presented with
@@ -54,8 +61,13 @@ all throughout the globe learn more about our world and the creatures that
 live in it. Also, your contributions will not go un-noticed! Your help will 
 also earn you a spot in our contributors page!
 
+We hope that our project will help anyone do the following:
+1. Learn the fundamentals of what a genome is and how genes are encoded in it
+2. Learn the anatomy of genes and how to spot when there are potential errors in the reference
+3. Contribute curated gene models to a shared, public database that *real* researchers
+will use in their science!
 
-
+To get started, check out our [Contributing Guide](CONTRIBUTING.md) and Tutorial!
 
 # References
 1. <a name='#ref1'>https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/</a>
