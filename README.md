@@ -1,4 +1,4 @@
-# HorseGeneAnnotation 
+# HorseGeneAnnotation  🐴
 Welcome! This is the README file for HorseGeneAnnotation: a manually curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
 the source code, documentations, tutorials and project tracking for
@@ -39,8 +39,11 @@ There were thousands of people<sup>[5](#5)</sup> working in the human genome
 project. Today, we have genome projects for hundreds of different non-model and
 agricultural species. Most of these teams consist of a handful of researchers
 who are dedicated to knowing more about frogs, alligators, falcons, hedgehogs,
-gorillas, bats, walrus's, beetles, and yes, horses<sup>[6](#6)</sup>.  Luckily,
-computers have made most the the process in drafting a reference genome a
+gorillas, bats, walrus's, beetles, and yes, horses<sup>[6](#6)</sup>.  
+
+🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦 🐤 🦆 🦅 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐚 🐞 🐜 🦗 🕷 🦂 🐢 🐍 🦎 🐙 🦑 🦐 🦀 🐡 🐠 🐟 🐳 🦈 🐊 🐅 🐆 🦓 🦍 🐘 🦏 🐪 🐫 🦒 🐃 🐂 🐄 🐎 🐖 🐏 🐑 🐐 🦌 🐕 🐩 🐈 🐓 🦃 🐇 🐁 🐀  
+
+Luckily, computers have made most the the process in drafting a reference genome a
 streamlined process. However, there are still some things computers are just
 not good at recognizing or resolving.
 
