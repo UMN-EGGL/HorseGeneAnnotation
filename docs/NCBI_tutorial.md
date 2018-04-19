@@ -91,20 +91,20 @@ Once you have answered the above questions it is time to closer assess exons via
 1.	Start by opening the [BLAST browser at NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi) 
         - Select nucleotide BLAST 
 
-![BLAST website picture]()
+![BLAST website picture](/assets/img/BLAST_website.jpg)
         
 2.	Once you are in the nucleotide BLAST screen you will enter the human nucleotide sequence in the white box at the top of the page, select reference genome sequences (refseq.genomic) under databases and search the horse genome (taxid:9796) for a match.   Select BLAST to match the sequences.  
 
-![BLAST screen picture]()
+![BLAST screen picture](/assets/img/BLAST_screen.jpg)
 
 _The screen will update multiple times as the BLAST is being performed and then results will be shown on screen. The processing screen highlights the number of base pairs included in the BLAST._
 
-![BLAST processing screen picture]()
+![BLAST processing screen picture](/assets/BLAST_processing_screen.jpg)
 
 3.	Results will include the “Descriptions” (shown below) that show all of the separate 
 transcript alignments and the identity match % (96%).    
 
-![BLAST results picture]()
+![BLAST results picture](/assets/img/BLAST)results_screen.jpg)
 
 4. Below the descriptions section is the “Alignments” section which provides the individual transcript matches.   The identities column shows how many of the nucleotides matchup between the horse & human (in this example: 55/57 or 96%, shown in red box).  The “query” sequence is the human sequence that was entered into BLAST and the “subject” is the equine reference sequence. 
 
@@ -112,7 +112,7 @@ On the left and right side of the subject sequence is the base pair position of 
 
 Any difference in nucleotides is visualized at the individual level shown with the absence of a vertical line joining the two differing base pairs shown within the green box below. 
 
-![BLAST transcript picture]()
+![BLAST transcript picture](/assets/img/BLAST_transcript.jpg)
 
 
 
@@ -127,17 +127,23 @@ In order to perform multiple alignment you need to pull the FASTA sequence from 
 
 1.	Start by locating the desired gene (ex: APP horse) and opening the gene table screen that shows the exon transcripts.   Select the name of the mRNA transcript variant which is listed in the description of that transcript (shown below) which will then open another screen where you have the option of selecting the FASTA sequence.  
 
+![FASTA location picture](/assets/img/FASTA_location.jpg)
 
 2.	Selecting FASTA will open the nucleotide sequence for the entire gene.  This entire sequence is then copy and pasted into the MultAlin sequence box.    Each individual sequence that is put into the MultAlin search box needs to be led with a  >Species (ex: >horse) as this will give a title to the sequence so you can identify which sequence is from which animal. 
 
+![FASTA into multalin picture](/assets/img/FASTA_into_multalin.jpg)
 
 3.	 Results will look like the image below.  The computer program creates a row for each animal transcript with the title you created by putting the name after the “>” sign.  This allows you to look at the nucleotide conservation across all of the species you entered.       Everything shown in red is an area that matches across all species.  An area in which all the species do not agree is shown in blue with the differing nucleotide base pair or missing nucleotides shown in black.  
 
+![MultAlin results picture](/assets/img/Multalin_results.jpg)
 
 4.	 This step is then often repeated to look at the amino acid conservation across species as nucleotide differences that affect the amino acid sequence are likely more significant and have the potential to cause greater effects.   This is done by clicking on the protein isoform located in the transcript description and obtaining the FASTA sequence of amino acids.  
 
+![Protein FASTA picture 1](/assets/img/protein_FASTA1.jpg)
+
+![Protein FASTA picture 2](/assets/img/protein_FASTA2.jpg)
 
 5.	The FASTA amino acid sequence is then pasted into the sequence box for multiple species (same as shown above for amino acids) to generate a multiple species alignment that looks like the one shown below.  Amino acids that are the same are shown in red with differing regions shown in blue and individual base pair differences/insertions/deletions shown in black. 
 
-
+![MultAlin results protein picture](/assets/img/Multalin_results_protein.jpg)
 
