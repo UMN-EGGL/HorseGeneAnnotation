@@ -16,15 +16,15 @@ experiments.
 
 Generating a reference genome costs a lot of money -- but it is getting better.
 The cost to sequence the first human genome was nearly 3
-billion<sup>[1](#ref1)</sup> dollars! Due to rapid advances in technology and
+billion<sup>[1](#foot1)</sup> dollars! Due to rapid advances in technology and
 an emerging biomedical market, a genome today only takes ~$1000 dollars to
-sequence<sup>[2](#ref2)</sup>. This is a pretty good deal considering that the
+sequence<sup>[2](#foot2)</sup>. This is a pretty good deal considering that the
 human genome is composed of nearly 3.2 billion base pairs, the unit of
-information in DNA<sup>[3](#ref3)</sup>. This advance in technology has also
+information in DNA<sup>[3](#foot3)</sup>. This advance in technology has also
 enabled reasearchers and scientists who study other genetics in other organisms
 to draft and assemble their own genome. In 2009, less than a decade after the
 human genome was completed, the nearly 2.7 billion base pairs of the equine
-genome were sequenced and made available to the public[4](#ref4).
+genome were sequenced and made available to the public[4](#foot4).
 
 ## A finished reference genome isn't done
 A genome is **massive**. If you printed yours out on paper, it would fill a
@@ -70,9 +70,9 @@ will use in their science!
 To get started, check out our [Contributing Guide](CONTRIBUTING.md) and Tutorial!
 
 # References
-1. <a name='#ref1'>https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/</a>
-2. <a name='#ref2'>https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/</a>
-3. <a name='#ref3'>https://en.wikipedia.org/wiki/Human_genome</a>
-4. <a name='#ref4'>https://www.sciencedaily.com/releases/2009/11/091105143708.htm</a>
-5. <a name='#ref5'>https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007</a>
-6. <a name='#ref6'>https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes</a>
+1. <a name='#foot1'>https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/</a>
+2. <a name='#foot2'>https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/</a>
+3. <a name='#foot3'>https://en.wikipedia.org/wiki/Human_genome</a>
+4. <a name='#foot4'>https://www.sciencedaily.com/releases/2009/11/091105143708.htm</a>
+5. <a name='#foot5'>https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007</a>
+6. <a name='#foot6'>https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes</a>
