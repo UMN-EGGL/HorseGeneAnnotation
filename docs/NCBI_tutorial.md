@@ -1,4 +1,4 @@
-## FINDING EXONS- NCBI & BLAST
+# FINDING EXONS- NCBI & BLAST
 
 The goal of this tutorial is to get you comfortable with locating gene sequences using NCBI and BLAST for manual annotation.  
 
@@ -82,3 +82,62 @@ The goal of this tutorial is to get you comfortable with locating gene sequences
 17.	Are there n’s in the sequence?
 
 Once you have answered the above questions it is time to closer assess exons via BLAST.  Below is a description on how to do this process of comparing coding sequences.  Please also see the associated flowchart and tutorials on how to deal with common problems that may be encountered as you work through comparing human & horse genomes. 
+
+
+
+
+# USING BLAST
+
+1.	Start by opening the [BLAST browser at NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi) 
+        - Select nucleotide BLAST 
+
+![BLAST website picture]()
+        
+2.	Once you are in the nucleotide BLAST screen you will enter the human nucleotide sequence in the white box at the top of the page, select reference genome sequences (refseq.genomic) under databases and search the horse genome (taxid:9796) for a match.   Select BLAST to match the sequences.  
+
+![BLAST screen picture]()
+
+_The screen will update multiple times as the BLAST is being performed and then results will be shown on screen. The processing screen highlights the number of base pairs included in the BLAST._
+
+![BLAST processing screen picture]()
+
+3.	Results will include the “Descriptions” (shown below) that show all of the separate 
+transcript alignments and the identity match % (96%).    
+
+![BLAST results picture]()
+
+4. Below the descriptions section is the “Alignments” section which provides the individual transcript matches.   The identities column shows how many of the nucleotides matchup between the horse & human (in this example: 55/57 or 96%, shown in red box).  The “query” sequence is the human sequence that was entered into BLAST and the “subject” is the equine reference sequence. 
+
+On the left and right side of the subject sequence is the base pair position of this sequence.  (For example this sequence spans between the base pair positions of 24,494,040 and 24,493,984- shown in the blue boxes).  
+
+Any difference in nucleotides is visualized at the individual level shown with the absence of a vertical line joining the two differing base pairs shown within the green box below. 
+
+![BLAST transcript picture]()
+
+
+
+
+# MULTIPLE SPECIES ALIGNMENT
+
+Another component of comparing genomes is to do a multiple species alignment that looks at a gene sequence (either as nucleotides or as amino acids) across many species.  This allows us to compare the species of interest to others and look at whether or not variants that are occurring are present in conserved or non-conserved regions of the gene.  A conserved region is one in which the sequence is very similar to identical in multiple species which could indicate that this region is important for function.  Non-conserved regions can vary greatly between species which often indicates that they are not as important for general functions, and variants identified in non-conserved regions are often not as significant.   
+
+There are a variety of programs available online that can perform multiple species alignment.  For this example we will use the [MultAlin Website](http://multalin.toulouse.inra.fr/multalin/)  
+
+In order to perform multiple alignment you need to pull the FASTA sequence from the desired species you want to compare as described below and insert it into the MultAlin website. 
+
+1.	Start by locating the desired gene (ex: APP horse) and opening the gene table screen that shows the exon transcripts.   Select the name of the mRNA transcript variant which is listed in the description of that transcript (shown below) which will then open another screen where you have the option of selecting the FASTA sequence.  
+
+
+2.	Selecting FASTA will open the nucleotide sequence for the entire gene.  This entire sequence is then copy and pasted into the MultAlin sequence box.    Each individual sequence that is put into the MultAlin search box needs to be led with a  >Species (ex: >horse) as this will give a title to the sequence so you can identify which sequence is from which animal. 
+
+
+3.	 Results will look like the image below.  The computer program creates a row for each animal transcript with the title you created by putting the name after the “>” sign.  This allows you to look at the nucleotide conservation across all of the species you entered.       Everything shown in red is an area that matches across all species.  An area in which all the species do not agree is shown in blue with the differing nucleotide base pair or missing nucleotides shown in black.  
+
+
+4.	 This step is then often repeated to look at the amino acid conservation across species as nucleotide differences that affect the amino acid sequence are likely more significant and have the potential to cause greater effects.   This is done by clicking on the protein isoform located in the transcript description and obtaining the FASTA sequence of amino acids.  
+
+
+5.	The FASTA amino acid sequence is then pasted into the sequence box for multiple species (same as shown above for amino acids) to generate a multiple species alignment that looks like the one shown below.  Amino acids that are the same are shown in red with differing regions shown in blue and individual base pair differences/insertions/deletions shown in black. 
+
+
+
