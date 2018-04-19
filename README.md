@@ -67,7 +67,7 @@ We hope that our project will help anyone do the following:
 3. Contribute curated gene models to a shared, public database that *real* researchers
 will use in their science!
 
-
+To get started, check out our Contributing Guide and Tutorial!
 
 # References
 1. <a name='#ref1'>https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/</a>
