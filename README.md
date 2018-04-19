@@ -24,7 +24,7 @@ information in DNA<sup>[3](#f3)</sup>. This advance in technology has also
 enabled reasearchers and scientists who study other genetics in other organisms
 to draft and assemble their own genome. In 2009, less than a decade after the
 human genome was completed, the nearly 2.7 billion base pairs of the equine
-genome were sequenced and made available to the public[4](#f4).
+genome were sequenced and made available to the public<sup>[4](#f4)</sup>.
 
 ## A finished reference genome isn't done
 A genome is **massive**. If you printed yours out on paper, it would fill a
@@ -70,9 +70,9 @@ will use in their science!
 To get started, check out our [Contributing Guide](CONTRIBUTING.md) and Tutorial!
 
 # References
-1. <a name='#f1'>https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/</a> [↩](#t1)
-2. <a name='#f2'>https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/</a>
-3. <a name='#f3'>https://en.wikipedia.org/wiki/Human_genome</a>
-4. <a name='#f4'>https://www.sciencedaily.com/releases/2009/11/091105143708.htm</a>
-5. <a name='#f5'>https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007</a>
-6. <a name='#f6'>https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes</a>
+- <a name='#f1'>1</a>: https://www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/
+- <a name='#f2'>2</a>: https://www.genome.gov/27565109/the-cost-of-sequencing-a-human-genome/
+- <a name='#f3'>3</a>: https://en.wikipedia.org/wiki/Human_genome
+- <a name='#f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm
+- <a name='#f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007
+- <a name='#f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes
