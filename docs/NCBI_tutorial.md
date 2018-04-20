@@ -1,6 +1,6 @@
 # FINDING EXONS- NCBI & BLAST
 
-The goal of this tutorial is to get you comfortable with locating gene sequences using NCBI and BLAST for manual annotation.  
+The goal of this tutorial is to get you comfortable with locating gene sequences and assessing their structure using NCBI and BLAST for manual annotation.  
 
 1.	Start by logging onto the [NCBI Gene Website](https://www.ncbi.nlm.nih.gov/gene)			
     - Enter the gene name & the species (equus caballus or horse) and hit Search 
