@@ -1,21 +1,33 @@
 # HorseGeneAnnotation  🐴
 Welcome! This is the README file for HorseGeneAnnotation: a manually-curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
-the source code, documentation, tutorials, and project tracking for
-HorseGeneAnnotation.
+the source code, documentation, tutorials, and project tracking for the
+HorseGeneAnnotation project. Continue reading below for a quick introduction into
+the problem we are trying to solve, or visit our [Contribution Guide](CONTRIBUTING.md) 
+to get started right away!
+
+## TL;DR
+In order to study genetics and genomics in non-model and agricultural species, 
+researchers rely on a reference genome to design experiments. Many of these 
+research communities rely on reference genomes where genes were discovered and 
+annotated computationally. **You** can help scientists curate and correct many of
+the small errors that computers are not good at fixing! Using this website you 
+will learn more about what genomes are and how they are studied and you will
+identify and correct issues and inconsistencies associated with the Equine 
+reference genome!
 
 ## To study genomics you need a genome 
 Genetics studies how changes in DNA changes can affect a living organism.
 Similarly, genomics investigates the entirety of an organism's DNA-sequence --
-its genome. Since everyone, except twins and clones, has a different genome,
-it can be hard to organize experiments. Researchers studying genetics and
-genomics collectively rely on a reference genome in order to make comparisons.
-This way, when a scientist finds what they think is a change in the DNA, or a
-mutation, they can compare it to the reference genome in order to design
-experiments. 
+its genome. Since everyone (except twins and clones!) has a different genome,
+it can be difficult to organize experiments. Researchers studying genetics and
+genomics collectively rely on a reference genome in order to make comparisons 
+among different individuals. This way, when a scientist finds what they think 
+is a change in the DNA, or a mutation, they can compare it to the reference 
+genome in order to design experiments. 
 
 Generating a reference genome costs a lot of money -- but it is getting better.
-The cost to sequence the first human genome was nearly 3
+The cost to sequence the first *human* genome was nearly 3
 billion<sup id='t1'>[1](#f1)</sup> dollars! Due to rapid advances in technology and
 an emerging biomedical market, a genome today only takes ~$1000 dollars to
 sequence<sup id='t2'>[2](#f2)</sup>. This is a pretty good deal, considering that the
@@ -41,7 +53,8 @@ agricultural species. Most of these teams consist of a handful of researchers
 who are dedicated to knowing more about frogs, alligators, falcons, hedgehogs,
 gorillas, bats, walruses, beetles, and yes, horses<sup id='t6'>[6](#f6)</sup>.  
 
-🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦 🐤 🦆 🦅 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐚 🐞 🐜 🦗 🕷 🦂 🐢 🐍 🦎 🐙 🦑 🦐 🦀 🐡 🐠 🐟 🐳 🦈 🐊 🐅 🐆 🦓 🦍 🐘 🦏 🐪 🐫 🦒 🐃 🐂 🐄 🐎 🐖 🐏 🐑 🐐 🦌 🐕 🐩 🐈 🐓 🦃 🐇 🐁 🐀  
+🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦 🐤 🦆 🦅 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐚 🐞 🐜 🕷 🦂 🐢 🐍 
+🦎 🐙 🦑 🦐 🦀 🐡 🐠 🐟 🐳 🦈 🐊 🐅 🐆 🦓 🦍 🐘 🦏 🐪 🐫 🦒 🐃 🐂 🐄 🐎 🐖 🐏 🐑 🐐 🦌 🐕 🐩 🐈 🐓 🦃 🐇 🐁 🐀  
 
 Luckily, computers have made most the the process in drafting a reference genome a
 streamlined process. However, there are still some things computers are just
