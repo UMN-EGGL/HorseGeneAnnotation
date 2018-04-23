@@ -1,8 +1,8 @@
 # Contributing to HorseGeneAnnotation
 
-Thank you for your interest in contributing to HorseGeneAnnotation :tada:! 
+First of all, **thank you** for your interest in contributing to HorseGeneAnnotation :tada:! 
 
-HorseGeneAnnotation is a gene curation website focused on improving the annotation of genes
+HorseGeneAnnotation is a community based gene curation website focused on improving the annotation of genes
 in non-model and agricultural species -- starting with the horse!
 
 This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
