@@ -5,6 +5,14 @@ First of all, **thank you** for your interest in contributing to HorseGeneAnnota
 HorseGeneAnnotation is a community based gene curation website focused on improving the annotation of genes
 in non-model and agricultural species -- starting with the horse!
 
+> What does this mean?
+
+Only ~1% of the genome contains the genetic code for [genes](https://en.wikipedia.org/wiki/Gene) which are the primary 
+unit of study in genetics. In non-model and agricultural organisms, such as the horse, genes are identified within the
+genome using an automated workflow of computer programs. These auto-generated lists of genes often contain errors that
+need to be manually fixed. This website will teach anyone how to do this, present them with troublesome regions, and 
+then solicit curation in a crowd-sourced manner!
+
 This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
 These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
