@@ -59,6 +59,8 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 
 Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues)!
 
+<!-- // maybe add  this back when I can figure out gitter ..
 ## Communication channels
 
 Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+-->
