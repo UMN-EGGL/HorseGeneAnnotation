@@ -18,7 +18,7 @@ These are guidelines, not rules. This guide is meant to make it easy for you to 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
 
 ## What we're working on
-Take a look at the issues in our [current milestone](https://github.com/UMN-EGGL/HorseGeneAnnotation/milestone/1) or browse some [good first bugs](https://github.com/UMN-EGGL/HorseGeneAnnotation/labels/good%20first%20issue) to get started!
+Take a look at the issues in our [sprint milestone](https://github.com/UMN-EGGL/HorseGeneAnnotation/milestone/1) or browse some [good first bugs](https://github.com/UMN-EGGL/HorseGeneAnnotation/labels/good%20first%20issue) to get started!
 
 In general, our workflow is split into three main project areas.
 1. Tutorials, content and documentation
