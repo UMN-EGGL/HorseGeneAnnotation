@@ -16,20 +16,39 @@ These are guidelines, not rules. This guide is meant to make it easy for you to 
 * [Communication channels](#communication-channels)
 
 ## Participation guidelines
-
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
 
 ## What we're working on
-
 Take a look at the issues in our [current milestone](https://github.com/UMN-EGGL/HorseGeneAnnotation/milestone/1) or browse some [good first bugs](https://github.com/UMN-EGGL/HorseGeneAnnotation/labels/good%20first%20issue) to get started!
+
+In general, our workflow is split into three main project areas.
+1. Tutorials, content and documentation
+1. Backend Code (Python)
+1. Frontend Code (Javascript)
+
+Each project has its own [page with tasks and issues](https://github.com/UMN-EGGL/HorseGeneAnnotation/projects) related 
+to each project area. In general, project developments will be outlined as (1) contributions to tutorials or content
+then will be (2) implemented on the backend, where changes will be incorporated in the database, the internal program 
+logic will be built, and the content will be created, then (3) the changes will be implemented as an interface on the frontend
+using javascript to render the webpage and to interact with the database.
+
+For a high level roadmap on the objectives in each project, please visit each projects respective 
+1. [Tutorials, etc Roadmap](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues/3)
+1. [Backend Roadmap](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues/4)
+1. [Frontend Roadmap](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues/5)
+
+Current issues and tasks related to each project area and discussion on each component can be found in the respective roadmaps.
+Please visit each project areas roadmap or [filter the issue tracker](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues?q=is%3Aissue+is%3Aopen+label%3ARoadmap) for more information on each project area.
 
 
 ## How to submit changes
 Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+
+Working on a website together is difficult. It is easy to step on each others feet :feet:
  
 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+1. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
+1. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
 First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
