@@ -1,4 +1,4 @@
-# HorseGeneAnnotation  🐴
+![Banner ](assets/img/repo/banner.png)
 Welcome! This is the README file for HorseGeneAnnotation: a manually-curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
 the source code, documentation, tutorials, and project tracking for the
@@ -6,7 +6,7 @@ HorseGeneAnnotation project. Continue reading below for a quick introduction int
 the problem we are trying to solve, or visit our [Contribution Guide](CONTRIBUTING.md) 
 to get started right away!
 
-## Summary
+## Summary 🐴
 In order to study genetics and genomics in non-model and agricultural species, 
 researchers rely on a reference genome to design experiments. Many of these 
 research communities rely on reference genomes where genes were discovered and 
@@ -89,3 +89,6 @@ To get started, check out our [Contributing Guide](CONTRIBUTING.md)!
 - <a name='f4'>4</a>: https://www.sciencedaily.com/releases/2009/11/091105143708.htm [↩](#f4)
 - <a name='f5'>5</a>: https://www.genome.gov/dnaday/q.cfm?aid=402&year=2007 [↩](#f5)
 - <a name='f6'>6</a>: https://en.wikipedia.org/wiki/List_of_sequenced_animal_genomes [↩](#f6)
+
+# Acknowledgements
+- Banner image provided [hasan amar on Unsplash](https://unsplash.com/photos/CRUBL_FDUOI)
