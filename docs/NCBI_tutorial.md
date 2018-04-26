@@ -142,7 +142,7 @@ In order to perform multiple alignment you need to pull the FASTA sequence from 
 
 ![Protein FASTA picture 2](/assets/img/protein_FASTA2.jpg)
 
-5.	The FASTA amino acid sequence is then pasted into the sequence box for multiple species (same as shown above for amino acids) to generate a multiple species alignment that looks like the one shown below.  Amino acids that are the same are shown in red with differing regions shown in blue and individual base pair differences/insertions/deletions shown in black. 
+5.	The FASTA amino acid sequence is then pasted into the sequence box for multiple species (same as shown above for amino acids) to generate a multiple species alignment that looks like the one shown below.  Amino acids that are the same are shown in red with differing regions shown in blue and individual base pair differences/insertions/deletions shown in *black*. 
 
 ![MultAlin results protein picture](/assets/img/Multalin_results_protein.jpg)
 
