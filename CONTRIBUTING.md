@@ -7,10 +7,10 @@ in non-model and agricultural species -- starting with the horse!
 
 > What does this mean?
 
-Only ~1% of the genome contains the genetic code for [genes](https://en.wikipedia.org/wiki/Gene) which are the primary 
+[Genes](https://en.wikipedia.org/wiki/Gene) are the primary 
 unit of study in genetics. In non-model and agricultural organisms, such as the horse, genes are identified within the
-genome using an automated workflow of computer programs. These auto-generated lists of genes often contain errors that
-need to be manually fixed. This website will teach anyone how to do this, present them with troublesome regions, and 
+genome using an automated workflow of computer programs. These auto-generated lists of gene and their known or suspected structures and DNA sequences often contain errors that
+need to be manually fixed. This website will teach people how to do this, present them with troublesome regions, and 
 then solicit curation in a crowd-sourced manner!
 
 This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
@@ -34,9 +34,9 @@ In general, our workflow is split into three main project areas.
 1. Frontend Code (Javascript)
 
 Each project has its own [page with tasks and issues](https://github.com/UMN-EGGL/HorseGeneAnnotation/projects) related 
-to each project area. In general, project developments will be outlined as (1) contributions to tutorials or content
-then will be (2) implemented on the backend, where changes will be incorporated in the database, the internal program 
-logic will be built, and the content will be created, then (3) the changes will be implemented as an interface on the frontend
+to each project area. In general, project developments will be outlined as: (1), contributions to tutorials or content
+that will then be; (2), implemented on the backend, where changes will be incorporated in the database, the internal program 
+logic will be built, and the content will be created; and then (3), the changes will be implemented as an interface on the frontend
 using javascript to render the webpage and to interact with the database.
 
 For a high level roadmap on the objectives in each project, please visit each projects respective 
