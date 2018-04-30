@@ -1,4 +1,4 @@
-![Banner ](assets/img/repo/banner.png)
+![Banner ](assets/img/repo/banner2.png)
 Welcome! This is the README file for HorseGeneAnnotation: a manually-curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
 the source code, documentation, tutorials, and project tracking for the
