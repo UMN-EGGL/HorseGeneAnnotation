@@ -6,6 +6,8 @@ HorseGeneAnnotation project. Continue reading below for a quick introduction int
 the problem we are trying to solve, or visit our [Contribution Guide](CONTRIBUTING.md) 
 to get started right away!
 
+Chat directly with us on Gitter! [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation )
+
 ## Summary 🐴
 In order to study genetics and genomics in non-model and agricultural species, 
 researchers rely on a reference genome to design experiments. Many of these 
