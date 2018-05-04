@@ -1,6 +1,16 @@
 # Contributing to HorseGeneAnnotation
+This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
+These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-First of all, **thank you** for your interest in contributing to HorseGeneAnnotation :tada:! 
+### Table of Contents
+* [Getting Started](#getting-started)
+* [Participation guidelines](#participation-guidelines)
+* [What we're working on](#what-were-working-on)
+* [How to submit changes](#how-to-submit-changes)
+* [How to report bugs](#how-to-report-bugs)
+
+### Getting Started
+First of all, **thank you** for your interest in contributing to our project :tada:! 
 
 HorseGeneAnnotation is a community based gene curation website focused on improving the annotation of genes
 in non-model and agricultural species -- starting with the horse!
@@ -9,18 +19,26 @@ in non-model and agricultural species -- starting with the horse!
 
 [Genes](https://en.wikipedia.org/wiki/Gene) are the primary 
 unit of study in genetics. In non-model and agricultural organisms, such as the horse, genes are identified within the
-genome using an automated workflow of computer programs. These auto-generated lists of gene and their known or suspected structures and DNA sequences often contain errors that
-need to be manually fixed. This website will teach people how to do this, present them with troublesome regions, and 
-then solicit curation in a crowd-sourced manner!
+genome using an automated workflow of computer programs. These auto-generated lists of gene and their known or suspected structures and DNA sequences often contain errors that need to be manually fixed. This website will teach people how to 
+do this, present them with troublesome regions, and then solicit curation in a crowd-sourced manner!
 
-This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
-These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+> I am a **scientist|programmer|designer|educator** and I want to help, how do I get started?
 
-### Table of Contents
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
+This project is meant to mash up many different disciplines, both technical and non-technical! We chose to 
+use Github as a central place to host our project (i.e. a repository of information) because of the great 
+tools that github offers for collaboration. While Github is a great place for programmers and developers, 
+but we understand if it's a little easy to get lost. There is a semi-steep learning curve for getting started...
+
+The good news is that the learning curve is very short and there are [TONS of guides](https://guides.github.com/) 
+for how to use and contribute using github. The other perk of using github as a content management system is that
+you almost **cannot goof anything up**. All changes to a project are recorded and there is an infinitely deep undo
+button. So experiment away!
+
+We are also here to help! The best way to get help is to contact someone working on the project. We have a live chat
+room which you can ask any question in. Just click this badge and join the conversation: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation )
+
+If you would rather experiment yourself, click the Issues tab at the top of the page or follow this [link](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues) to see our list of things we are working on. You can filter the list of tasks by clicking each tag and reducing the issues to ones that might suit you!
+
 
 ## Participation guidelines
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
