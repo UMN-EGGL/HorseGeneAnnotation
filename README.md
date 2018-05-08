@@ -1,5 +1,5 @@
 ![Banner ](assets/img/repo/banner2.png)
-# Welcome!
+# Welcome! 🐴
 
 This is the README file for HorseGeneAnnotation: a manually-curated,
 crowd-sourced gene annotation website for the horse. This repo contains all of
@@ -10,14 +10,18 @@ HorseGeneAnnotation project.
 [
     ![mozsprint banner](https://assets.mofoprod.net/network/images/home-2x.original.jpg)
 ](https://www.mozillapulse.org/entry/757)
+To see what we are working on for the Mozilla Global Sprint (May 10-11), see our [tagged issues](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint).
 
+
+# Overview
 Continue reading below for a quick introduction into
 the problem we are trying to solve, or visit our [Contribution Guide](CONTRIBUTING.md) 
 to get started right away!
 
-Chat directly with us on Gitter! [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation )
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation ) 
+Chat directly with us on Gitter!
 
-# Problem Summary 🐴
+# Problem Summary
 In order to study genetics and genomics in non-model and agricultural species, 
 researchers rely on a reference genome to design experiments. Many of these 
 research communities rely on reference genomes where genes were discovered and 
