@@ -7,7 +7,9 @@ the source code, documentation, tutorials, and project tracking for the
 HorseGeneAnnotation project. 
 
 ### **NOTICE!**:We are participating in the Mozilla Global Code Sprint!
-![mozsprint banner](https://assets.mofoprod.net/network/images/home-2x.original.jpg)
+[
+    ![mozsprint banner](https://assets.mofoprod.net/network/images/home-2x.original.jpg)
+](https://www.mozillapulse.org/entry/757)
 
 Continue reading below for a quick introduction into
 the problem we are trying to solve, or visit our [Contribution Guide](CONTRIBUTING.md) 
