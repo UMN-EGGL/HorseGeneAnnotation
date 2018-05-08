@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               HorseGeneAnnotation
+tagline:             'crowd sourcing the equine genome'
 description:         ''
 url:                 https://umn-eggl.github.io/HorseGeneAnnotation
-baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation/'
+baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Rob Schaefer
+  url:               https://twitter.com/CSciBio
+  email:             rob@linkage.io
 
 # Custom vars
 version:             1.0.0
