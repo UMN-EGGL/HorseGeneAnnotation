@@ -9,7 +9,7 @@ title:               Lanyon
 tagline:             'A Jekyll theme'
 description:         ''
 url:                 https://umn-eggl.github.io/HorseGeneAnnotation/
-baseurl:             ''
+baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation/'
 paginate:            5
 
 # About/contact
