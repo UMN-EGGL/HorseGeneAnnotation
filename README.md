@@ -6,7 +6,7 @@ crowd-sourced gene annotation website for the horse. This repo contains all of
 the source code, documentation, tutorials, and project tracking for the
 HorseGeneAnnotation project. 
 
-**NOTICE!**:We are participating in the Mozilla Global Code Sprint!
+### **NOTICE!**:We are participating in the Mozilla Global Code Sprint!
 ![mozsprint banner](https://assets.mofoprod.net/network/images/home-2x.original.jpg)
 
 Continue reading below for a quick introduction into
