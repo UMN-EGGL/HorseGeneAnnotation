@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "HorseGeneAnnotation"
+description: "A crowd sourced gene annotation website for the hores"
+show_downloads: "true"
+google_analytics: UA-118906491-1
