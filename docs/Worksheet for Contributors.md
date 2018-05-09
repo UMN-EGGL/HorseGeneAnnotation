@@ -4,3 +4,21 @@ Thank you for taking the time to help participate in this project.  As you are w
 to consider the following questions and provide feedback on your experience.  This will allow us to improve the content of 
 the tutorial to serve future users and make sure that the neccesary background information is provided. 
 
+**General Questions**
+1. Were there any words used in the tutorial that were not properly explained or were confusing?  If able, please list the
+words and where you found them in the tutorial. 
+
+
+
+2. Did you find any steps difficult to complete with the provided text and images?  Please elaborate on which steps were
+confusing and anything you would have liked explained better. 
+
+
+
+3. Were you able to locate the genes and all of the neccesary exon information (transcripts, length, splice sites, stop/start
+codons, 5' and 3' UTR) to proceed through the tutorial appropriately?  
+
+
+
+Please provide any additional comments or constructive criticism to improve this tutorial and experience:
+
