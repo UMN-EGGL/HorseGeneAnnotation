@@ -1,8 +1,8 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: false
+#permalink:           pretty
+#relative_permalinks: false
 
 # Setup
 title:               HorseGeneAnnotation
@@ -14,6 +14,8 @@ include:             ['_pages']
 kramdown:            
   input:             GFM
 paginate:            5
+plugins:
+    - jemoji
 
 # About/contact
 author:
