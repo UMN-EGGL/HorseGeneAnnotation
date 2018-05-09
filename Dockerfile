@@ -14,16 +14,19 @@ RUN apt-get -y update && apt-get install -y \
     python3 \
     python3-dev \
     ruby \
-    ruby-dev 
+    ruby-dev \
+    zlib1g-dev
 
 # Install gems for jekyll
 RUN gem install bundle jekyll
 
 # Copy over the source files into the 
 COPY . HorseGeneAnnotation
-RUN cd HorseGeneAnnotation
 
-ENTRYPOINT [ "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000" ]
+
+WORKDIR /HorseGeneAnnotation
+RUN bundle install
+ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000" ]
 
 
 # Build the Container with:

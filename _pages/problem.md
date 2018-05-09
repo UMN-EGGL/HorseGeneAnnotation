@@ -4,7 +4,6 @@ title: The Problem
 permalink: problem
 ---
 
-# Problem Summary
 In order to study genetics and genomics in non-model and agricultural species, 
 researchers rely on a reference genome to design experiments. Many of these 
 research communities rely on reference genomes where genes were discovered and 
