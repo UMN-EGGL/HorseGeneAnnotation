@@ -234,6 +234,12 @@ img {
   border-radius: 5px;
 }
 
+img.emoji {
+  display: inline;
+  margin: 0;
+}
+
+
 /* Tables */
 table {
   margin-bottom: 1rem;
