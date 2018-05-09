@@ -44,26 +44,26 @@ For all organisms with a sequenced genome complete and correct annotation, or ge
 researchers. Annotation of a genome can be accomplished in several ways using dozens of different methods, that fall into 3 
 general categories:
 
-    - 1. In silico (done by a computer) annotation uses gene models from other closely related species with a well-annotated
-    genome. Using another organism’s gene models are a good best guess at annotation, as important elements of gene models 
-    (start and stop codon sequences, splice site recognition sequences, and exon sequences) are often very highly conserved 
-    across species. These initial gene models are improved by the computer searching for missing stop or start codons, exons
-    or splice junctions, etc. in the DNA sequence of the species of interest.
+1. In silico (done by a computer) annotation uses gene models from other closely related species with a well-annotated
+genome. Using another organism’s gene models are a good best guess at annotation, as important elements of gene models 
+(start and stop codon sequences, splice site recognition sequences, and exon sequences) are often very highly conserved 
+across species. These initial gene models are improved by the computer searching for missing stop or start codons, exons
+or splice junctions, etc. in the DNA sequence of the species of interest.
     
-    - 2. In silico annotation with RNA sequences from the target species. mRNA sequences that are generated from the tissues
-    of theorganism at different life stages can also be used to improve annotation. By generating billions of mRNA sequences
-    from transcripts isolated from tissues, researchers can improve annotation by aligning these RNAs to the genome sequence
-    (*Figure 4*). 
-    
- 
- ![Figure 4: RNA Mapping](/assets/img/Figure_4.jpg)
-    
-    
+2. In silico annotation with RNA sequences from the target species. mRNA sequences that are generated from the tissues
+of theorganism at different life stages can also be used to improve annotation. By generating billions of mRNA sequences
+from transcripts isolated from tissues, researchers can improve annotation by aligning these RNAs to the genome sequence
+(*Figure 4*). 
 
-    - 3. Annotation of genes can also be performed manually. Even with in silico predictions from the gene models of other
-    species,and with species-specific RNA sequencing, annotation can be incorrect. Therefore researchers often need to 
-    annotate genes by hand by comparing the annotations of other species directly to the annotation in the species of interest 
-    (see manual annotation tutorials). 
+![Figure 4:RNA Mapping](/assets/img/Figure_4.jpg)
+
+3. Annotation of genes can also be performed manually. Even with in silico predictions from the gene models of other
+species,and with species-specific RNA sequencing, annotation can be incorrect. Therefore researchers often need to 
+annotate genes by hand by comparing the annotations of other species directly to the annotation in the species of interest 
+(see manual annotation tutorials). 
+
+
+    
  
 
 In summary, annotation helps give meaning to the genome’s DNA sequences and makes it much easier for researchers to analyze 
