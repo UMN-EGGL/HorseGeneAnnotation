@@ -1,4 +1,10 @@
-# Contributing to HorseGeneAnnotation
+---
+layout: page
+title: Contributing
+permalink: contributing
+---
+
+# Contributing to {{site.title}}
 This document is a set of guidelines for contributing to HorseGeneAnnotation on GitHub. 
 These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
@@ -18,11 +24,14 @@ in non-model and agricultural species -- starting with the horse!
 > What does this mean?
 
 [Genes](https://en.wikipedia.org/wiki/Gene) are the primary 
-unit of study in genetics. In non-model and agricultural organisms, such as the horse, genes are identified within the
-genome using an automated workflow of computer programs. These auto-generated lists of gene and their known or suspected structures and DNA sequences often contain errors that need to be manually fixed. This website will teach people how to 
-do this, present them with troublesome regions, and then solicit curation in a crowd-sourced manner!
+unit of study in genetics. In non-model and agricultural organisms, such as the
+horse, genes are identified within the genome using an automated workflow of
+computer programs. These auto-generated lists of gene and their known or
+suspected structures and DNA sequences often contain errors that need to be
+manually fixed. This website will teach people how to do this, present them
+with troublesome regions, and then solicit curation in a crowd-sourced manner!
 
-> I am a **scientist|programmer|designer|educator** and I want to help, how do I get started?
+> I am a **scientist/programmer/designer/educator** and I want to help, how do I get started?
 
 This project is meant to mash up many different disciplines, both technical and non-technical! We chose to 
 use Github as a central place to host our project (i.e. a repository of information) because of the great 
@@ -34,14 +43,15 @@ for how to use and contribute using github. The other perk of using github as a 
 you almost **cannot goof anything up**. All changes to a project are recorded and there is an infinitely deep undo
 button. So experiment away!
 
-We are also here to help! The best way to get help is to contact someone working on the project. We have a live chat
-room which you can ask any question in. Just click this badge and join the conversation: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation )
+We are also here to help! The best way to get help is to contact someone
+working on the project. We have a live chat room which you can ask any question
+in. Just click this badge and join the conversation: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation)
 
 If you would rather experiment yourself, click the Issues tab at the top of the page or follow this [link](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues) to see our list of things we are working on. You can filter the list of tasks by clicking each tag and reducing the issues to ones that might suit you!
 
 
 ## Participation guidelines
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
+This project adheres to a [code of conduct](/conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
 
 ## What we're working on
 Take a look at the issues in our [sprint milestone](https://github.com/UMN-EGGL/HorseGeneAnnotation/milestone/1) or browse some [good first bugs](https://github.com/UMN-EGGL/HorseGeneAnnotation/labels/good%20first%20issue) to get started!
