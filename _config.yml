@@ -8,9 +8,8 @@ relative_permalinks: false
 title:               HorseGeneAnnotation
 tagline:             'Crowd sourcing the equine genome'
 description:         'Crowd sourcing the equine genome'
-#baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation'
 url:                 https://umn-eggl.github.io/
-baseurl:             HorseGeneAnnotation/
+baseurl:             ''
 include:             ['_pages']
 kramdown:            
   input:             GFM
