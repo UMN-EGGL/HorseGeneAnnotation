@@ -20,8 +20,9 @@ To see what we are working on for the Mozilla Global Sprint (May 10-11), see our
 
 
 # Overview
-Continue reading below for a quick introduction into
-the problem we are trying to solve, or visit our [Contribution Guide](/contributing) 
+
+Read an overview about the problem we are trying to solve [here](/problem), 
+or visit our [Contribution Guide](/contributing) 
 to get started right away!
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation ) 
@@ -29,7 +30,10 @@ Chat directly with us on Gitter!
 
 
 # Acknowledgements
-- Banner image provided [hasan amar on Unsplash](https://unsplash.com/photos/CRUBL_FDUOI)
+- Banner image provided: 
+    - Molly McCue
+    - [hasan amar on Unsplash](https://unsplash.com/photos/CRUBL_FDUOI)
+- Jekyll theme derived from [Lanyon](http://lanyon.getpoole.com/)
 
 
 <!--
