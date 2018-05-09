@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributing
-permalink: contributing
+#permalink: contributing
 ---
 
 # Contributing to {{site.title}}
@@ -51,7 +51,9 @@ If you would rather experiment yourself, click the Issues tab at the top of the 
 
 
 ## Participation guidelines
-This project adheres to a [code of conduct](/conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to <rob@linkage.io>.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you
+are expected to uphold this code. Please report unacceptable behavior to
+<rob@linkage.io>.
 
 ## What we're working on
 Take a look at the issues in our [sprint milestone](https://github.com/UMN-EGGL/HorseGeneAnnotation/milestone/1) or browse some [good first bugs](https://github.com/UMN-EGGL/HorseGeneAnnotation/labels/good%20first%20issue) to get started!

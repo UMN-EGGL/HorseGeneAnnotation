@@ -21,8 +21,8 @@ To see what we are working on for the Mozilla Global Sprint (May 10-11), see our
 
 # Overview
 
-Read an overview about the problem we are trying to solve [here](/problem), 
-or visit our [Contribution Guide](/contributing) 
+Read an overview about the problem we are trying to solve [here](_pages/problem.md), 
+or visit our [Contribution Guide](CONTRIBUTING.md) 
 to get started right away!
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation ) 
