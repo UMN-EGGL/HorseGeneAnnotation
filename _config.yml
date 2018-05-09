@@ -6,10 +6,14 @@ relative_permalinks: false
 
 # Setup
 title:               HorseGeneAnnotation
-tagline:             'crowd sourcing the equine genome'
-description:         ''
+tagline:             'Crowd sourcing the equine genome'
+description:         'Crowd sourcing the equine genome'
+#baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation'
 url:                 https://umn-eggl.github.io/HorseGeneAnnotation
-baseurl:             'https://umn-eggl.github.io/HorseGeneAnnotation'
+baseurl:             ''
+include:             ['_pages']
+kramdown:            
+  input:             GFM
 paginate:            5
 
 # About/contact
