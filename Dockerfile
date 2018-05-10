@@ -33,13 +33,13 @@ ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
 
+# Copy over the source files into the 
+COPY . HorseGeneAnnotation
 # Install gems for jekyll
 RUN gem install bundle jekyll
 WORKDIR /HorseGeneAnnotation
 RUN bundle install
 
-# Copy over the source files into the 
-COPY . HorseGeneAnnotation
 ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000" ]
 
 
