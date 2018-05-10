@@ -1,3 +1,9 @@
+---
+layout: page
+title: NCBI Tutorial
+permalink: NCBI_tutorial
+---
+
 # FINDING EXONS- NCBI & BLAST
 
 The goal of this tutorial is to get you comfortable with locating gene sequences and assessing their structure using NCBI and BLAST for manual annotation.  
