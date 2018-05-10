@@ -20,12 +20,19 @@ To see what we are working on for the Mozilla Global Sprint (May 10-11), see our
 
 
 # Overview
+This project is meant to empower *anyone* to contribute to our cause. There are many ways
+to get involved. Here are a couple of steps to get started!
 
-Read an overview about the problem we are trying to solve [here](_pages/problem.md), 
-or visit our [Contribution Guide](CONTRIBUTING.md) 
-to get started right away!
+1. Read an overview about the problem we are trying to solve: [here](_pages/problem.md)
+1. Read more about the specifics of gene annotation: [here](_pages/What_is_Gene_Annotation.md)
+1. Read through our NCBI Based tutorial on how to annotate genes: [here](_pages/NCBI_tutorial.md)
+1. Use our web based gene annotation program to help hack the horse genome (coming soon!)
+1. Edit/remix/join the conversation and help us make this website better [here](CONTRIBUTING.md) 
+
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HorseGeneAnnotation ) 
+
+
 Chat directly with us on Gitter!
 
 
