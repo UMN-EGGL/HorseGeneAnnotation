@@ -19,9 +19,9 @@ then translated by the cell to synthesize proteins based on those sequences.  Th
 transcribed into other types of RNAs such as long non-coding RNAs and micro RNAs that are not transcribed into proteins.  
 Approximately 30% of the DNA of the genome is represented by such protein-coding and non-coding gene units. 
 
-![Figure 1:DNA](/assets/img/Figure_1.jpg) 
+![Figure 1:DNA](../assets/img/Figure_1.jpg) 
 
-![Figure 2:Gene](/assets/img/Figure_2.jpg)
+![Figure 2:Gene](../assets/img/Figure_2.jpg)
 
 The DNA of a protein-coding gene is made up of **exons** and **introns** *(Figure 3A)*. As hinted at above, to convert a 
 protein-coding gene into a protein, one of its DNA strands is first transcribed into a precursor RNA (transcription, *Figure 
