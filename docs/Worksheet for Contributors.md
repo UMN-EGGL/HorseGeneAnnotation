@@ -19,6 +19,38 @@ confusing and anything you would have liked explained better.
 codons, 5' and 3' UTR) to proceed through the tutorial appropriately?  
 
 
+4. Did you find the images/figures helpful to work through "Tutorial" and "What is Gene Annotation".  Anything you would like
+to see clarified? 
 
-Please provide any additional comments or constructive criticism to improve this tutorial and experience:
+
+5. Please fill out the following information regarding these horse genes:
+
+**APP**
+- Number of exons:
+- Annotated Amino Acid length:
+- Does it have a start codon? What exon is it on?
+- Does it have a stop codon? What exon is it on?
+- Are all splice junctions appropriate?
+- Does it contain a 5' and 3' UTR?
+
+
+**SLC6A**
+- Number of exons:
+- Annotated Amino Acid length:
+- Does it have a start codon? What exon is it on?
+- Does it have a stop codon? What exon is it on?
+- Are all splice junctions appropriate?
+- Does it contain a 5' and 3' UTR?
+
+**EFNB3**
+- Number of exons:
+- Annotated Amino Acid length:
+- Does it have a start codon? What exon is it on?
+- Does it have a stop codon? What exon is it on?
+- Are all splice junctions appropriate?
+- Does it contain a 5' and 3' UTR?
+
+
+
+6. Please provide any additional comments or constructive criticism to improve this tutorial and experience:
 
