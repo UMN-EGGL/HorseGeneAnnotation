@@ -1,3 +1,9 @@
+---
+layout: page
+title: Troubleshooting Tutorial
+permalink: Troubleshooting_Tutorial
+---
+
 # Amino Acid & Exon Length Tutorial
 
 When the amino acid numbers are not the same between the horse and human genomes, it is important to determine where the discrepancy in the number of amino acids is coming from.  It is also important to look at the gene across multiple species to try and get an understanding of how conserved that region is and if the difference in number could just represent normal species variation.  

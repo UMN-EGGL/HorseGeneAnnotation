@@ -1,3 +1,9 @@
+---
+layout: page
+title: What is gene annotation?
+permalink: What_is_Gene_Annotation
+---
+
 # WHAT IS GENE ANNOTATION? 
 
 To understand what is meant by gene annotation, it is first important to understand the structure and function of genes within
