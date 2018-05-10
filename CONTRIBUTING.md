@@ -64,8 +64,7 @@ In general, our workflow is split into three main project areas.
 1. Frontend Code (Javascript)
 
 Each project has its own [page with tasks and issues](https://github.com/UMN-EGGL/HorseGeneAnnotation/projects) related 
-to each project area. In general, project developments will be outlined as: (1), contributions to tutorials or content
-that will then be; (2), implemented on the backend, where changes will be incorporated in the database, the internal program 
+to each project area. In general, project developments will be outlined as: (1), contributions to tutorials or content; (2), implemented on the backend, where changes will be incorporated in the database, the internal program 
 logic will be built, and the content will be created; and then (3), the changes will be implemented as an interface on the frontend
 using javascript to render the webpage and to interact with the database.
 
