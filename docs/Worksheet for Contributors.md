@@ -4,7 +4,7 @@ Thank you for taking the time to help participate in this project.  As you are w
 to consider the following questions and provide feedback on your experience.  This will allow us to improve the content of 
 the tutorial to serve future users and make sure that the neccesary background information is provided. 
 
-**General Questions**
+## General Questions
 1. Were there any words used in the tutorial that were not properly explained or were confusing?  If able, please list the
 words and where you found them in the tutorial. 
 
@@ -23,9 +23,11 @@ codons, 5' and 3' UTR) to proceed through the tutorial appropriately?
 to see clarified? 
 
 
+## Gene Specific Questions 
+
 5. Please fill out the following information regarding these horse genes:
 
-**APP**
+_**APP**_
 - Number of exons:
 - Annotated Amino Acid length:
 - Does it have a start codon? What exon is it on?
@@ -34,7 +36,7 @@ to see clarified?
 - Does it contain a 5' and 3' UTR?
 
 
-**SLC6A**
+_**SLC6A**_
 - Number of exons:
 - Annotated Amino Acid length:
 - Does it have a start codon? What exon is it on?
@@ -42,7 +44,7 @@ to see clarified?
 - Are all splice junctions appropriate?
 - Does it contain a 5' and 3' UTR?
 
-**EFNB3**
+_**EFNB3**_
 - Number of exons:
 - Annotated Amino Acid length:
 - Does it have a start codon? What exon is it on?
