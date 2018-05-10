@@ -1,3 +1,9 @@
+---
+layout: page
+title: Worksheet for contributors
+permalink: Worksheet_for_Contributors
+---
+
 # WORKSHEET
 
 Thank you for taking the time to help participate in this project.  As you are working through the tutorial we would like you 
