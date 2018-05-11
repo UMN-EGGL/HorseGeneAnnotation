@@ -48,8 +48,3 @@ ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000" ]
 
 # Run the Container passing through a port to the host
 # $ docker run -p 4000:4000 -it hga
-
-
-# Inside the container
-# $ cd HorseGeneAnnotation
-# $ jekyll serve --baseurl='' -H 0.0.0.0
