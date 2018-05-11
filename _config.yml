@@ -11,7 +11,7 @@ description:         'Crowd sourcing the equine genome'
 url:                 https://umn-eggl.github.io
 baseurl:             '/HorseGeneAnnotation'
 include:             ['_pages']
-kramdown:            
+kramdown:
   input:             GFM
 paginate:            5
 plugins:
