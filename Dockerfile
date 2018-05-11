@@ -46,6 +46,8 @@ RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 RUN python get-pip.py
 RUN python setup.py install
 
+pip install Django
+pip install locuspocus
 
 # Install gems for jekyll
 RUN gem install bundle jekyll
