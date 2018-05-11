@@ -4,3 +4,8 @@ Thumbs.db*
 ~$*
 _site
 Gemfile.lock
+build/
+dist/
+geneannotation.egg-info/
+geneannotation/__pycache__/
+
