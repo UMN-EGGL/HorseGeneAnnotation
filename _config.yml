@@ -9,9 +9,9 @@ title:               HorseGeneAnnotation
 tagline:             'Crowd sourcing the equine genome'
 description:         'Crowd sourcing the equine genome'
 url:                 https://umn-eggl.github.io
-baseurl:             '/HorseGeneAnnotation'
+baseurl:             ''
 include:             ['_pages']
-kramdown:            
+kramdown:
   input:             GFM
 paginate:            5
 plugins:
