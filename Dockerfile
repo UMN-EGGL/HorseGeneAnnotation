@@ -10,6 +10,9 @@ RUN apt-get -y update && apt-get install -y \
     git \
     gcc \
     build-essential \
+    python-setuptools \
+    python-dev \
+    build-essential \
 	apt-transport-https \
     python3 \
     python3-dev \
@@ -35,11 +38,19 @@ ENV LANGUAGE en_US.UTF-8
 
 # Copy over the source files into the 
 COPY . HorseGeneAnnotation
+WORKDIR /HorseGeneAnnotation
+
+
+# Install the python package for gene annotation (backend)
+RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py 
+RUN python get-pip.py
+RUN python setup.py install
+
+
 # Install gems for jekyll
 RUN gem install bundle jekyll
-WORKDIR /HorseGeneAnnotation
 RUN bundle install
-
+# Start the we front end
 ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000" ]
 
 
