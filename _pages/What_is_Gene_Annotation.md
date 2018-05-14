@@ -68,7 +68,7 @@ from transcripts isolated from tissues, researchers can improve annotation by al
 ![Figure 4:RNA Mapping](../assets/img/Figure_4.jpg){:class='figure'}
 > Legend Text
 
-3. Annotation of genes can also be performed manually. Even with in silico predictions from the gene models of other
+3. Annotation of genes can also be performed manually. Even with *in silico* predictions from the gene models of other
 species,and with species-specific RNA sequencing, annotation can be incorrect. Therefore researchers often need to 
 annotate genes by hand by comparing the annotations of other species directly to the annotation in the species of interest 
 (see manual annotation tutorials).  
