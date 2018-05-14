@@ -19,10 +19,3 @@ https://github.com/UMN-EGGL/HorseGeneAnnotation/issues
 Chat with us in Gitter:
 
 https://gitter.im/HorseGeneAnnotation/Lobby
-
-
-### **NOTICE!**:We are participating in the Mozilla Global Code Sprint!
-[
-    ![mozsprint banner](https://assets.mofoprod.net/network/images/home-2x.original.jpg)
-](https://www.mozillapulse.org/entry/757)
-To see what we are working on for the Mozilla Global Sprint (May 10-11), see our [tagged issues](https://github.com/UMN-EGGL/HorseGeneAnnotation/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint).
