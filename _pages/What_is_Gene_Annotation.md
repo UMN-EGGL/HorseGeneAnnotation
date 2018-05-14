@@ -25,7 +25,7 @@ Approximately 30% of the DNA of the genome is represented by such protein-coding
 
 ### Figre 2
 ![Figure 2:Gene](../assets/img/Figure_2.jpg){:class='figure'}
-> Legene Text
+> Legend Text
 
 The DNA of a protein-coding gene is made up of **exons** and **introns** *(Figure 3A)*. As hinted at above, to convert a 
 protein-coding gene into a protein, one of its DNA strands is first transcribed into a precursor RNA (transcription, *Figure 
