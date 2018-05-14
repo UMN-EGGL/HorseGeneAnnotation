@@ -19,9 +19,13 @@ then translated by the cell to synthesize proteins based on those sequences.  Th
 transcribed into other types of RNAs such as long non-coding RNAs and micro RNAs that are not transcribed into proteins.  
 Approximately 30% of the DNA of the genome is represented by such protein-coding and non-coding gene units. 
 
-![Figure 1:DNA](../assets/img/Figure_1.jpg) 
+### Figure 1
+![Figure 1:DNA](../assets/img/Figure_1.jpg){:class='figure'} 
+> Legend Text
 
-![Figure 2:Gene](../assets/img/Figure_2.jpg)
+### Figre 2
+![Figure 2:Gene](../assets/img/Figure_2.jpg){:class='figure'}
+> Legene Text
 
 The DNA of a protein-coding gene is made up of **exons** and **introns** *(Figure 3A)*. As hinted at above, to convert a 
 protein-coding gene into a protein, one of its DNA strands is first transcribed into a precursor RNA (transcription, *Figure 
@@ -38,10 +42,9 @@ of the start codon is not translated and is known as the 5’ untranslated regio
 the stop codon is not translated and is known as the 3’ untranslated region (3’ UTR). 
 
 
-![Figure 3:Gene processing](../assets/img/Figure_3.jpg)
-
-
-
+### Figure 3
+![Figure 3:Gene processing](../assets/img/Figure_3.jpg){:class='figure'}
+> Legend Text
 
 Genome **annotation** is the process of finding the precise locations of each of the individual genes along a chromosome’s DNA 
 strand, and the locations of each gene’s features such as introns, exons, start and stop codons, splice sites and UTRs on the
@@ -61,7 +64,9 @@ of theorganism at different life stages can also be used to improve annotation. 
 from transcripts isolated from tissues, researchers can improve annotation by aligning these RNAs to the genome sequence
 (*Figure 4*). 
 
-![Figure 4:RNA Mapping](../assets/img/Figure_4.jpg)
+### Figure 4
+![Figure 4:RNA Mapping](../assets/img/Figure_4.jpg){:class='figure'}
+> Legend Text
 
 3. Annotation of genes can also be performed manually. Even with in silico predictions from the gene models of other
 species,and with species-specific RNA sequencing, annotation can be incorrect. Therefore researchers often need to 
