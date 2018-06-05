@@ -21,11 +21,11 @@ Approximately 30% of the DNA of the genome is represented by such protein-coding
 
 ### Figure 1
 ![Figure 1:DNA](../assets/img/Figure_1.jpg){:class='figure'} 
-> Legend Text
+> DNA double helix and base pairing of the strands.  The right and left sides show how two strands form a double helix.  The middle section shows how that strand of the is a actually a linear string of bases which can be A, T, C, or G.  The bases on each strand align into base pairs in which an A always pairs with a T and a C always pairs with a G.
 
 ### Figre 2
 ![Figure 2:Gene](../assets/img/Figure_2.jpg){:class='figure'}
-> Legend Text
+> Genes and intergenic regions on a chromosomal segment.  A region of DNA is shown that contains both genes and intergenic regions.  The sequences of DNA bases within the genes can be transcribed into RNA, which can either be protein-coding or non-coding.
 
 The DNA of a protein-coding gene is made up of **exons** and **introns** *(Figure 3A)*. As hinted at above, to convert a 
 protein-coding gene into a protein, one of its DNA strands is first transcribed into a precursor RNA (transcription, *Figure 
@@ -44,7 +44,7 @@ the stop codon is not translated and is known as the 3’ untranslated region (3
 
 ### Figure 3
 ![Figure 3:Gene processing](../assets/img/Figure_3.jpg){:class='figure'}
-> Legend Text
+> Structure of genes and formation of mRNAs and proteins.   A.  The DNA sequence within a gene is comprised of exons and introns.  One of the first exons has a start codon while the last exon has a stop codon, which are ultimately used for directing the synthesis of a protein.   The UTRs do not function in protein synthesis.  B.  A precursor RNA that has been transcribed from the gene contains both the exon and intron sequences, as well as splice sites that are the DNA bases at the junctions between exons and introns. The exons contain functional information for the eventual synthesis of protein while the intron sequences are discarded and the exons are spliced together.  C.  After splicing the transcript is termed a mRNA (messenger RNA) which contains a 5’ UTR, a start and a stop codon, and a 3’ UTR.   Many genes can be alternatively splicing, resulting in different combinations of the available exons can be present in the mRNA.  D.  The sequence of bases in the mRNA including and between the start and stop codons (but not including the 5’ and 3’ UTRs) are recognized as codons (3 consecutive bases) and utilized by the cellular machinery to synthesis a protein.  Alternative transcripts of a gene will produce proteins of different lengths and slightly different functions.
 
 Genome **annotation** is the process of finding the precise locations of each of the individual genes along a chromosome’s DNA 
 strand, and the locations of each gene’s features such as introns, exons, start and stop codons, splice sites and UTRs on the
@@ -66,7 +66,7 @@ from transcripts isolated from tissues, researchers can improve annotation by al
 
 ### Figure 4
 ![Figure 4:RNA Mapping](../assets/img/Figure_4.jpg){:class='figure'}
-> Legend Text
+> Identification of DNA exon sequences from mRNA sequence data.  After isolation of mRNA from cells and tissues these mRNAs can be sequenced to generate strands of sequence up to 150 bases long.  Depending on the lengths of the exons in the genes from which these mRNAs were generated, the mRNA sequences may be based entirely in a single exon (orange strands) or represent contributions from several exons (purple strands).   If the mRNA is alternatively spliced, the set of sequences will be derived from all spliced forms (left and right).   When the mRNA sequences are aligned with the original DNA sequence the orange sequences will be placed entirely within exons while the purple sequences will be placed in consecutive exons and separated by the original introns.  In this way the boundaries between exons and introns, and the precise locations of the splice sites are determined.
 
 3. Annotation of genes can also be performed manually. Even with *in silico* predictions from the gene models of other
 species,and with species-specific RNA sequencing, annotation can be incorrect. Therefore researchers often need to 
